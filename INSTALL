@@ -1,6 +1,8 @@
  Installing HT
 ===============
 
+Dependencies: automake, autoconf
+
 (1)
     a. (Only if you're NOT using a tarball / release:)
 
